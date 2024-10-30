@@ -1,5 +1,7 @@
 ## Image-Processing
 
+App photoshop (Deadline 14/11)
+Hỏi thầy về cái thư viện.
 1. Chức năng
 	- Load ảnh.
 	- Lưu ảnh.
